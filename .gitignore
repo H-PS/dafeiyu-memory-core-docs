@@ -1,0 +1,13 @@
+# 本地整理与审计产物，不纳入公开仓库
+_整理_工作清单/
+_PUBLISH_META/
+*.zip
+*.db
+*.sqlite
+*.sqlite3
+*.log
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
